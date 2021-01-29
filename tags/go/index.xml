@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 15 Nov 2020 17:39:50 -0500</lastBuildDate><atom:link href="https://matthewjwhite.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 16:10:51 -0500</lastBuildDate><atom:link href="https://matthewjwhite.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GopherCon 2020</title>
+      <link>https://matthewjwhite.github.io/posts/second/</link>
+      <pubDate>Fri, 29 Jan 2021 16:10:51 -0500</pubDate>
+      
+      <guid>https://matthewjwhite.github.io/posts/second/</guid>
+      <description>Last year, I had the privilege of attending GopherCon 2020. Recently, the GopherCon team published the presentation recordings on YouTube. In this post I&amp;rsquo;d like to take the opportunity to share my favorites!
+Go is Boring&amp;hellip; And That&amp;rsquo;s Fantastic!
+One of my favorite summaries of Go and the motivation behind its simplicity!
+Coming to Go from a language like Python, you might be surprised to see the lack of inheritance, classes, etc.</description>
+    </item>
+    
     <item>
       <title>Hello!</title>
       <link>https://matthewjwhite.github.io/posts/first/</link>
