@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Matt White</title>
-        <link>https://matthewjwhite.github.io/posts/</link>
+        <link>https://nonety.pe/posts/</link>
         <description>Recent content in Posts on Matt White</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Fri, 29 Jan 2021 16:10:51 -0500</lastBuildDate>
-        <atom:link href="https://matthewjwhite.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://nonety.pe/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>GopherCon 2020</title>
-            <link>https://matthewjwhite.github.io/posts/second/</link>
+            <link>https://nonety.pe/posts/2021/01/gophercon-2020/</link>
             <pubDate>Fri, 29 Jan 2021 16:10:51 -0500</pubDate>
             
-            <guid>https://matthewjwhite.github.io/posts/second/</guid>
+            <guid>https://nonety.pe/posts/2021/01/gophercon-2020/</guid>
             <description>Last year, I had the privilege of attending GopherCon 2020. Recently, the GopherCon team published the presentation recordings on YouTube. In this post I&amp;rsquo;d like to take the opportunity to share my favorites!
 Go is Boring&amp;hellip; And That&amp;rsquo;s Fantastic! One of my favorite summaries of Go and the motivation behind its simplicity!
 Coming to Go from a language like Python, you might be surprised to see the lack of inheritance, classes, etc.</description>
@@ -58,19 +58,19 @@ stack frames, Go programming, etc.</p>
         
         <item>
             <title>Hello!</title>
-            <link>https://matthewjwhite.github.io/posts/first/</link>
+            <link>https://nonety.pe/posts/2020/11/hello/</link>
             <pubDate>Sun, 15 Nov 2020 17:39:50 -0500</pubDate>
             
-            <guid>https://matthewjwhite.github.io/posts/first/</guid>
+            <guid>https://nonety.pe/posts/2020/11/hello/</guid>
             <description>package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hey there!&amp;#34;) } </description>
-            <content type="html"><![CDATA[<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
-
-<span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
-
-<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
-    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Hey there!&#34;</span>)
-}
-</code></pre></div>]]></content>
+            <content type="html"><![CDATA[<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#e6db74">&#34;Hey there!&#34;</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>

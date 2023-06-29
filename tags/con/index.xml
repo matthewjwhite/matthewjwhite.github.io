@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>con on Matt White</title>
-    <link>https://matthewjwhite.github.io/tags/con/</link>
+    <link>https://nonety.pe/tags/con/</link>
     <description>Recent content in con on Matt White</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 29 Jan 2021 16:10:51 -0500</lastBuildDate><atom:link href="https://matthewjwhite.github.io/tags/con/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 16:10:51 -0500</lastBuildDate><atom:link href="https://nonety.pe/tags/con/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GopherCon 2020</title>
-      <link>https://matthewjwhite.github.io/posts/second/</link>
+      <link>https://nonety.pe/posts/2021/01/gophercon-2020/</link>
       <pubDate>Fri, 29 Jan 2021 16:10:51 -0500</pubDate>
       
-      <guid>https://matthewjwhite.github.io/posts/second/</guid>
+      <guid>https://nonety.pe/posts/2021/01/gophercon-2020/</guid>
       <description>Last year, I had the privilege of attending GopherCon 2020. Recently, the GopherCon team published the presentation recordings on YouTube. In this post I&amp;rsquo;d like to take the opportunity to share my favorites!
 Go is Boring&amp;hellip; And That&amp;rsquo;s Fantastic! One of my favorite summaries of Go and the motivation behind its simplicity!
 Coming to Go from a language like Python, you might be surprised to see the lack of inheritance, classes, etc.</description>
