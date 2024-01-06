@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt White</title>
-    <link>https://nonety.pe/</link>
+    <link>https://matthewjwhite.github.io/</link>
     <description>Recent content on Matt White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 29 Jan 2021 16:10:51 -0500</lastBuildDate><atom:link href="https://nonety.pe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 16:10:51 -0500</lastBuildDate><atom:link href="https://matthewjwhite.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GopherCon 2020</title>
-      <link>https://nonety.pe/posts/2021/01/gophercon-2020/</link>
+      <link>https://matthewjwhite.github.io/posts/2021/01/gophercon-2020/</link>
       <pubDate>Fri, 29 Jan 2021 16:10:51 -0500</pubDate>
       
-      <guid>https://nonety.pe/posts/2021/01/gophercon-2020/</guid>
+      <guid>https://matthewjwhite.github.io/posts/2021/01/gophercon-2020/</guid>
       <description>Last year, I had the privilege of attending GopherCon 2020. Recently, the GopherCon team published the presentation recordings on YouTube. In this post I&amp;rsquo;d like to take the opportunity to share my favorites!
 Go is Boring&amp;hellip; And That&amp;rsquo;s Fantastic! One of my favorite summaries of Go and the motivation behind its simplicity!
 Coming to Go from a language like Python, you might be surprised to see the lack of inheritance, classes, etc.</description>
@@ -21,10 +21,10 @@ Coming to Go from a language like Python, you might be surprised to see the lack
     
     <item>
       <title>👋</title>
-      <link>https://nonety.pe/about/</link>
+      <link>https://matthewjwhite.github.io/about/</link>
       <pubDate>Sun, 15 Nov 2020 18:08:58 -0500</pubDate>
       
-      <guid>https://nonety.pe/about/</guid>
+      <guid>https://matthewjwhite.github.io/about/</guid>
       <description>Hello! Matt White here, from 🇺🇸.
 I am a Software Engineer 👨‍💻, dog dad 🐶, and horror addict 🧟‍♂️.
 My professional interests are cloud-native computing, backend, SRE, and DevOps.
@@ -35,10 +35,10 @@ I ❤️ to use: </description>
     
     <item>
       <title>Hello!</title>
-      <link>https://nonety.pe/posts/2020/11/hello/</link>
+      <link>https://matthewjwhite.github.io/posts/2020/11/hello/</link>
       <pubDate>Sun, 15 Nov 2020 17:39:50 -0500</pubDate>
       
-      <guid>https://nonety.pe/posts/2020/11/hello/</guid>
+      <guid>https://matthewjwhite.github.io/posts/2020/11/hello/</guid>
       <description>package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hey there!&amp;#34;) } </description>
     </item>
     
