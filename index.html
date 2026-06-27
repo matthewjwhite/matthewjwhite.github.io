@@ -471,12 +471,17 @@ window.addEventListener("load", () => {
 
 /* Boot sequence */
 const bootLines = [
-    "[    0.000000] Linux version 6.6.0-custom (user@home)",
-    "[    0.000000] BIOS-e820: memory map initialized",
-    "[    0.120001] ACPI tables loaded",
-    "[    1.002331] systemd: starting user session",
-    "[  OK  ] Reached target Multi-User System.",
-    "[  OK  ] Startup finished in 1.842s."
+  "[    0.000000] Linux version 6.6.0 (build@arch) SMP",
+  "[    0.000000] Command line: root=/dev/sda1 rw quiet",
+  "[    0.002114] ACPI: RSDP 0x00000000000F0420",
+  "[    0.004881] BIOS-provided physical RAM map",
+  "[    0.018220] Kernel command line parsed",
+  "[    0.045331] usbcore: registered new interface driver",
+  "[    0.120001] systemd[1]: systemd 255 running in system mode",
+  "[    0.140992] systemd[1]: Mounting file systems...",
+  "[  OK  ] Reached target System Initialization.",
+  "[  OK  ] Reached target Multi-User System.",
+  "[  OK  ] Startup finished in 1.84s."
 ];
 
 const boot = document.getElementById("boot");
